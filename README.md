@@ -2,6 +2,7 @@
 <br>
 🖼 Screenshots
 
+![image](https://github.com/user-attachments/assets/14358681-4a26-4fc9-8ada-c02d0e97797c)
 
 
 <br>
