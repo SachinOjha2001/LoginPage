@@ -17,4 +17,8 @@
 
 
 <br>
-Author-Sachin Ojha
+👤 Author
+Sachin Kumar Ojha
+💼 Frontend Developer
+📚 Currently learning Full Stack Development
+🎓 The Oxford College Of Engineering (Bengaluru)
